@@ -25,7 +25,7 @@ In this exercise, the class was tasked to create a portfolio page using Bootstra
 
 
 Live Deployed Site:
-https://jules-boogie.github.io/responsive-portfolio
+https://jules-boogie.github.io/Responsive-Portfolio/
 
 
 ## License
